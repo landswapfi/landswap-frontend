@@ -20,6 +20,7 @@ import EasterEgg from './components/EasterEgg'
 import GlobalCheckClaimStatus from './components/GlobalCheckClaimStatus'
 import history from './routerHistory'
 // Views included in the main bundle
+// test
 import Pools from './views/Pools'
 import Swap from './views/Swap'
 import {
