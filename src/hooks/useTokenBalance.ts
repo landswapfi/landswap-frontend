@@ -65,7 +65,6 @@ export const useTotalSupply = () => {
 
     fetchTotalSupply()
   }, [slowRefresh])
-
   return totalSupply
 }
 

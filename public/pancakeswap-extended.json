@@ -1,0 +1,24 @@
+{
+    "name": "PancakeSwap Top 100",
+    "timestamp": "2021-09-17T08:04:09.127Z",
+    "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 28
+    },
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+    "keywords": [
+    "pancakeswap",
+    "top 100"
+    ],
+    "tokens": [
+        {
+        "name": "Land Token",
+        "symbol": "LAND",
+        "address": "0x7C7396D50C528B48105A603e657bfA59366b0617",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+        }
+    ]
+}
